@@ -38,13 +38,13 @@ Price_t = 10 + α × (Occupancy / Capacity)
 
 ## Architecture
 
-...
+View architecture_diagram.png
 
 ---
 
 ## Output (Example Visualization)
 
-Model_1_Output_example.jpg
+View Model_1_Output_example.jpg
 
 ---
 
@@ -64,8 +64,11 @@ Model_1_Output_example.jpg
 
 2. Download the libraries included in `requirements.txt`
 
-```txt
-pathway
-pandas
-bokeh
-panel
+  ```txt
+  pathway
+  pandas
+  bokeh
+  panel
+  ```
+
+3. Run the Model_1_Capstone.ipynb file (using Google Colab).
