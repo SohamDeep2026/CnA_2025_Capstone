@@ -1,6 +1,6 @@
 # CnA_2025_Capstone
 
-# Real-Time Dynamic Parking Pricing – Model 1
+# Real-Time Dynamic Parking Pricing
 
 **Summer Analytics 2025 Capstone Project**  
 Consulting & Analytics Club × Pathway
